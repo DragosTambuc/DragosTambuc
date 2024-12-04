@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DragosTambuc
-- 👀 I’m interested in QA (Manual and Automation).and UX Design.
-- 🌱 I’m currently learning .UX Design and QA..
-- 💞️ I’m looking to collaborate on UX Design and QA projects...
+- 👀 I’m interested in QA (Manual and Automation)
+- 🌱 I’m currently learning QA...
+- 💞️ I’m looking to collaborate on QA projects...
 - 📫 How to reach me .tambucdragos@gmail.com..
 
 <!---
